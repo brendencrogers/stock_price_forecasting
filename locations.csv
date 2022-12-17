@@ -1,0 +1,201 @@
+,name,ticker,cik,cusip,exchange,isDelisted,category,sector,industry,sic,sicSector,sicIndustry,famaSector,famaIndustry,currency,location,id,price
+0,Bats Global Markets Inc,BATS,1659228,05491G109,BATS,True,Domestic Common Stock,Financial Services,Asset Management,6200,Finance Insurance And Real Estate,Security & Commodity Brokers Dealers Exchanges & Services,,Trading,USD,Kansas; U.S.A,ceb68758720984a570663b5e49c4378c,
+1,Cboe Global Markets Inc,CBOE,1374310,12503M108,BATS,False,Domestic Common Stock,Financial Services,Financial Exchanges,6200,Finance Insurance And Real Estate,Security & Commodity Brokers Dealers Exchanges & Services,,Trading,USD,Illinois; U.S.A,8a916deecbc25ffebf30728238a9a905,115.08
+2,Goldman Sachs Physical Gold ETF,AAAU,1708646,38150K103 715426102,BATS,False,ETF,,,6221,Finance Insurance And Real Estate,Commodity Contracts Brokers & Dealers,,,USD,Oklahoma; U.S.A,0003361a26c7b4ff56f529272fc5e7a5,19.79
+3,Aptus Collared Income Opportunity ETF,ACIO,1540305,26922A222,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,18d3a41fa67b216204df2e3d3328a53a,30.47
+4,American Customer Satisfaction ETF,ACSI,1540305,26922A776 886364710,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,f7fcfd7174b400371ba6673426444e4f,47.6561
+5,iShares MSCI Global Min Vol Factor ETF,ACWV,930667,464286525,BATS,False,ETF,,,,,,,,USD,California; U.S.A,2aec70b462db70872c6ca22fc29283f8,100.89
+6,Anfield Dynamic Fixed Income ETF,ADFI,1552947,90214Q725,BATS,False,ETF,,,,,,,,USD,Ohio; U.S.A,f876276b4e920b89632b022a559af85c,9.1
+7,Aptus Drawdown Managed Equity ETF,ADME,1540305,26922A784,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,30c42fdadc05e4aef93209539586b516,39.4
+8,Anfield US Equity Sector Rotation ETF,AESR,1552947,90214Q733,BATS,False,ETF,,,,,,,,USD,Ohio; U.S.A,68b2e4e25a8fa4d67909c79f4b64b358,12.53
+9,Anfield Universal Fixed Income ETF,AFIF,1552947,90214Q766,BATS,False,ETF,,,,,,,,USD,Ohio; U.S.A,a74e545a0aadf83c8924501312a81666,9.3
+10,iShares MSCI Argentina and Global Exposure ETF,AGT,1100663,46435G276,BATS,False,CEF,,,,,,,,USD,California; U.S.A,bb899b3469cf1b99472f1a71b8fdbfe6,27.5398
+11,AlphaClone Alternative Alpha ETF,ALFA,1540305,26922A305,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,93b4db5e2a076dd53e22279fedb596a9,64.69
+13,ProShares Morningstar Alternatives Solution ETF,ALTS,1174610,74347B813,BATS,False,ETF,,,,,,,,USD,Maryland; U.S.A,c8326a733f7068a26ba726871e471a5b,38.2919
+14,Emles Made in America ETF,AMER,1755351,291361707,BATS,False,ETF,,,,,,,,USD,Texas; U.S.A,8f01875de1a3e0b6c3af93e1baa71947,29.0523
+17,APEX HealthCare ETF,APXH,1552947,90214Q659,BATS,False,ETF,,,,,,,,USD,Ohio; U.S.A,fac64da203dbd7ef837ed601c26cfeed,8.8535
+18,Arrow Reserve Capital Management ETF,ARCM,1527428,042765719 042765776,BATS,False,ETF,,,,,,,,USD,Maryland; U.S.A,fb5d861fdb5ad836c4f0906e1608e079,99.4198
+19,ARK Genomic Revolution ETF,ARKG,1579982,00214Q302,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,8f25277cb44db4aa915d9b6d46d6ba62,44.77
+20,ARK Autonomous Technology & Robotics ETF,ARKQ,1579982,00214Q203,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,0e9d836c8acb749beb67cc0b68f945d7,62.42
+21,ARK Space Exploration & Innovation ETF,ARKX,1579982,00214Q807,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,75ca23c827cf4352a032461c28f7a930,16.62
+24,TrueShares Structured Outcome (August) ETF,AUGZ,1683471,53656F722,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,1372c3ded83ad069e583997e06ae70c9,31.1822
+25,AVDR US LargeCap ESG ETF,AVDG,1764795,64157X203,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,3ae8a7484e900a1033f5addf140aa3c6,29.1148
+26,AVDR US LargeCap Leading ETF,AVDR,1764795,64157X104,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,d47a0364d1fc2c62a1c473455e13945c,27.89
+27,Innovator Defined Wealth Shield ETF,BALT,1415726,45783Y855,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,966415cff1b45f3b14753b53d2a803f6,25.8
+28,Innovator US Equity Buffer ETF - April,BAPR,1415726,45782C888,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,b088c8b3e6633b9559f0910b5970f2ea,32.1846
+29,Innovator US Equity Buffer ETF - August,BAUG,1415726,45782C698,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,8f01d5bbd3454a940418d255e2982681,31.27
+30,JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF,BBAX,1485894,46641Q688 46641Q233,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,938b7c2bdfc41116144feb1e63ecc670,52.28
+31,JPMorgan BetaBuilders Canada ETF,BBCA,1485894,46641Q696 46641Q225,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,312dc9317a6d74e6d447d1d573711b72,67.16
+32,JPMorgan BetaBuilders Europe ETF,BBEU,1485894,46641Q720 46641Q191,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,7f75eddd456147df75aee7b51c50bc20,52.6
+33,JPMorgan BetaBuilders International Equity ETF,BBIN,1485894,46641Q373,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,96c0f36f0fb3f6ebc91741293813bb2f,53.24
+34,JPMorgan BetaBuilders Japan ETF,BBJP,1485894,46641Q712 46641Q217,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,e5b240e6f4006ef69a1e6c6212fff8c4,49.25
+35,JPMorgan BetaBuilders MSCI US REIT ETF,BBRE,1485894,46641Q738,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,7400ab93ecf754104dac206dacf67632,102.03
+36,JPMorgan BetaBuilders 1-5 Year US Aggregate Bond ETF,BBSA,1485894,46641Q258 46641Q381,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,e751de772a48b43c2f70dad84ccc653f,49.51
+37,JPMorgan BetaBuilders US Equity ETF,BBUS,1485894,46641Q399,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,35a8896bad7cd9eefb4840db08046dcd,77.19
+38,Innovator US Equity Buffer ETF - December,BDEC,1415726,45782C557,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,21e2ccf08d8b4d8f06ca07aeac9c7a8d,32.81
+40,Innovator US Equity Buffer ETF - February,BFEB,1415726,45782C433,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,38746380ee458f9cb3a9e461133ea513,31.05
+41,FT Cboe Vest Gold Strategy Quarterly Buffer ETF,BGLD,1329377,33733E849,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,862db2fa6ae557074337dfb33a08fc6d,19.6054
+42,Innovator US Equity Buffer ETF - January,BJAN,1415726,45782C409,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,593179983e1dd481aaaad3e641c3bd65,34.61
+43,Innovator S&P 500 Ultra ETF (Month),BJUL,1415726,45782C789,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,b30fcab745c46bfc07275d925d0348da,31.64
+44,Innovator US Equity Buffer ETF - June,BJUN,1415726,45782C755,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,74f7027db6bef04e214a087cf0def710,32.906
+45,Cambria Global Real Estate ETF,BLDG,1529390,132061813,BATS,False,ETF,,,,,,,,USD,California; U.S.A,9968f0dd75ae3b3a31818a86d9df319c,30.937
+46,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF,BLKC,1378872,46138G524,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,0289e81f0fd2bbd0f7564ac11e10d06f,18.8755
+47,Innovator US Equity Buffer ETF - March,BMAR,1415726,45782C391,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,ec655afedb64bb99379e4fe372345e59,33.64
+48,Innovator US Equity Buffer ETF - May,BMAY,1415726,45782C326,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,89503b16ae0f413e8a1137342bca9686,31.32
+49,Innovator US Equity Buffer ETF - November,BNOV,1415726,45782C581,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,04a1de178a72d12ffbb34a52616d88a6,30.6508
+50,MerlynAI Best-of-Breed Core Momentum ETF,BOB,1592900,02072L888,BATS,False,ETF,,,,,,,,USD,Pennsylvania; U.S.A,82325d9fae7df5fdbaecf7dad9b020e5,26.68
+51,Innovator US Equity Buffer ETF - October,BOCT,1415726,45782C771,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,df203434ce1eb9a5a1dc0835cfe6d354,32.6
+52,Global X Founder-Run Companies ETF,BOSS,1432353,37954Y681,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,a5f0df696edb4dd1dc4f8e6d93082762,28.19
+54,Innovator US Equity Buffer ETF - September,BSEP,1415726,45782C664,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,e8a30a47be52acecd0b3e6005eaf8b54,31.14
+56,Innovator Laddered Allocation Buffer ETF,BUFB,1415726,45783Y756,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,ecb31e91e6959e20009e4e301f80ff7c,24.09
+57,FT Cboe Vest Fund of Deep Buffer ETFs,BUFD,1667919,33740U703,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,2caaeb86e240e19f4c275622acc83db4,20.67
+58,Innovator Laddered Fund of US Equity Power Buffer ETFs,BUFF,1595106,45783G102 45783Y814 287711790,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,8909aa17356825deffa408b65aa399d6,34.75
+59,FT Cboe Vest Buffered Allocation Growth ETF,BUFG,1667919,33740U778,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,bcf160f3042a01d1e0f7716dffdc4efb,19.15
+60,FT Cboe Vest Fund of Buffer ETFs,BUFR,1667919,33740F755,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,50370840959080a4b17166b92dffa38d,22.86
+61,FT Cboe Vest Buffered Allocation Defensive ETF,BUFT,1667919,33740U760,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,5ef6a419ccbad61bcc8bd11d2a782743,19.58
+62,Franklin Disruptive Commerce ETF,BUYZ,1655589,35473P538,BATS,False,ETF,,,,,,,,USD,California; U.S.A,db3d81c164ed95c3f299ae1973147bed,28.21
+63,Pacer US Small Cap Cash Cows 100 ETF,CALF,1616668,69374H857,BATS,False,ETF,,,,,,,,USD,Pennsylvania; U.S.A,4887c9e0080e57d7a900af83441fc615,40.47
+64,Cabot Growth ETF,CBTG,1683471,53656F615,BATS,True,ETF,,,,,,,,USD,Wisconsin; U.S.A,9800670dc92b8ec7fba8986cc8579ebb,14.7535
+65,Saba Closed-End Funds ETF,CEFS,1547950,30151E806,BATS,False,ETF,,,,,,,,USD,Oklahoma; U.S.A,7023f7f7643aafb585b287dda45f79ab,19.37
+66,iShares JP Morgan EM Corporate Bond ETF,CEMB,930667,464286251,BATS,False,ETF,,,,,,,,USD,California; U.S.A,b406c1c593547367725e80e3a6d16ee8,45.66
+67,Clearbridge Focus Value Esg Etf,CFCV,1792795,00509W105,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,a5c39adf6db1b5fafd34eb42412b4b3b,32.3722
+68,Convergence Long/Short Equity ETF,CLSE,1141819,,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,db38c4b4a6cc7e190627396c2df20342,15.41
+71,iShares MSCI China A ETF,CNYA,1100663,46434V514,BATS,False,ETF,,,,,,,,USD,California; U.S.A,cbb53e8838135382bf490f8fc9171f02,37.72
+72,Pacer US Cash Cows 100 ETF,COWZ,1616668,69374H881,BATS,False,ETF,,,,,,,,USD,Pennsylvania; U.S.A,2f5be9d2badf7ebe2318bf22b942ff90,48.21
+73,ProShares Large Cap Core Plus,CSM,1174610,74347R248,BATS,False,ETF,,,,,,,,USD,Maryland; U.S.A,54020d31f9dfd3fb67dda97856464e7b,50.96
+74,ARK Transparency ETF,CTRU,1579982,00214Q880,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,9906454bbf3371f89bc7f6fcb93012a4,15.35
+75,Cultivar ETF,CVAR,1771146,26923N876,BATS,False,ETF,,,,,,,,USD,Virginia; U.S.A,13648096924c89f6ca4fbc4f94bf9799,25.8534
+77,Anfield Diversified Alternatives ETF,DALT,1552947,90213U115,BATS,False,ETF,,,,,,,,USD,Ohio; U.S.A,25ffd8cd8af92f7fd61a9daf0c2864a3,9.71
+78,FT Cboe Vest US Equity Deep Buffer ETF - April,DAPR,1667919,33740U802,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,f8a471bb47beab60861b834600cf4613,30.58
+79,FT Cboe Vest US Equity Deep Buffer ETF - August,DAUG,1667919,33740F854,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,fc7f69ed855df163cb5b1023d14eb899,33.955
+81,Innovator Double Stacker 9 Buffer ETF - January,DBJA,1415726,45782C136,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,86860df39f39d0c476e4176d324f2d39,26.355
+82,Innovator Double Stacker 9 Buffer ETF - October,DBOC,1415726,45782C219,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,bf0a40507f1197e47319b10e9a31198b,28.7245
+85,FT Cboe Vest US Equity Deep Buffer ETF - December,DDEC,1667919,33740U406,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,d71f963219a90835562984802a626937,31.44
+86,WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund,DDLS,1350487,97717X271,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,848c81371808d64ae78c6da0f28e2d63,32.21
+87,WisdomTree Dynamic Currency Hedged International Equity Fund,DDWM,1350487,97717X263,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,0cc963f39e6f989269f7ea1a019e78d5,29.2
+88,TrueShares Structured Outcome (December) ETF,DECZ,1683471,53656F672,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,7617f3ec24f3c3292536f8e3e411c08e,28.16
+89,iShares Adaptive Currency Hedged MSCI EAFE ETF,DEFA,1100663,46435G656,BATS,True,ETF,,,,,,,,USD,California; U.S.A,4ba2c326a4d04e6772f6a7ec638aed56,33.4299
+90,Emles Protective Allocation ETF,DEFN,1755351,291361509,BATS,True,ETF,,,,,,,,USD,Texas; U.S.A,53056e034db8b51954bb9ab46406517a,24.678
+94,FT Cboe Vest US Equity Deep Buffer ETF - February,DFEB,1667919,33740F771,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,35c4b9be32566d6f03d7b2dd4546a411,35.12
+95,Donoghue Forlines Tactical High Yield ETF,DFHY,1604813,89628W609,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,bae0a1c47d7622d073242eed4e9ad03c,23.765
+96,Reality Shares Divcon Dividend Defender Etf,DFND,1573496,75605A504 829658400,BATS,False,ETF,,,,,,,,USD,California; U.S.A,5adfd31b6a2f3942b705d9144c7eaeaa,36.64
+97,Davis Select Financial ETF,DFNL,1670310,23908L108,BATS,False,ETF,,,,,,,,USD,Arizona; U.S.A,37d65b2399b06c3912fd29f6fe683848,29.66
+98,Donoghue Forlines Risk Managed Innovation ETF,DFNV,1604813,89628W500,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,6e7a9f11099847a323fd11c985a28320,25.16
+99,Donoghue Forlines Real Assets Enhanced Yield ETF,DFRA,1604813,89628W708,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,aae6ba4ae89b458f949f3746df3dd9bc,27.0093
+102,Davis Select International ETF,DINT,1670310,23908L405,BATS,False,ETF,,,,,,,,USD,Arizona; U.S.A,83daaa898e6b50a496ec806b674ef235,17.28
+103,iShares US Dividend and Buyback ETF,DIVB,1100663,46435U861,BATS,False,ETF,,,,,,,,USD,California; U.S.A,250435663690778de377328a1b6aa7ad,40.28
+104,FT Cboe Vest US Equity Deep Buffer ETF - January,DJAN,1667919,33740F631,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,2d7aac373f9a9027bafe94970c6fe219,31.9
+105,FT Cboe Vest US Equity Deep Buffer ETF - July,DJUL,1667919,33740F698,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,38104ab1afb72588121777cb2f55f859,32.589
+106,FT Cboe Vest US Equity Deep Buffer ETF - June,DJUN,1667919,33740F714,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,63e39b1b7b1c02f7d5f5c9ef119c3e82,33.5573
+108,FT Cboe Vest US Equity Deep Buffer ETF - March,DMAR,1667919,33740F615,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,38b734808621cee1da011affdbaeabff,31.51
+109,FT Cboe Vest US Equity Deep Buffer ETF - May,DMAY,1667919,33740F730,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,7812e11e3d08a328fe30a6fd5a76a5fb,33.74
+110,FT Cboe Vest US Equity Deep Buffer ETF - November,DNOV,1667919,33740F839,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,0a9d09b5ccb9c6f0fbae01a4f1c144dd,33.67
+111,FT Cboe Vest US Equity Deep Buffer ETF - October,DOCT,1667919,33740F672,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,ceeb359a3ffc3f7b23158ecc9dba3818,31.875
+112,Aptus Defined Risk ETF,DRSK,1540305,26922A388,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,b08fb002272bb475162064d54d1db1c5,28.07
+113,FT Cboe Vest US Equity Deep Buffer ETF - September,DSEP,1667919,33740F680,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,a56ad0f1a78ae2e5b2aa9cef0bbeb9b7,31.8813
+114,Innovator Double Stacker ETF - January,DSJA,1415726,45782C177,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,da4e3afe5abc61e62ae92017fc45470b,26.94
+115,Innovator Double Stacker ETF - October,DSOC,1415726,45782C185,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,16519a2c73c2370ff51b1ae424f54170,30.6449
+120,MerlynAI SectorSurfer Momentum ETF,DUDE,1592900,02072L862,BATS,False,ETF,,,,,,,,USD,Pennsylvania; U.S.A,416bf84174be9e43ec4b993d7c7a85c3,27.94
+121,VanEck Morningstar Durable Dividend ETF,DURA,1137360,92189H102,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,bde7ce0009ae31df50d22f22123320e3,31.33
+122,Davis Select US Equity ETF,DUSA,1670310,23908L207,BATS,False,ETF,,,,,,,,USD,Arizona; U.S.A,b044d1ef8538b64ce37678dd52374232,31.51
+123,Source Dividend Opportunity ETF,DVOP,1683471,53656F839,BATS,True,ETF,,,,,,,,USD,Wisconsin; U.S.A,089983fa1d47bb1348e1affe2ad7ce82,18.975
+124,Davis Select Worldwide ETF,DWLD,1670310,23908L306,BATS,False,ETF,,,,,,,,USD,Arizona; U.S.A,48b52b2233103afbd9e7d63c279e4cad,26.17
+127,iShares ESG Aware Aggressive Allocation ETF,EAOA,1100663,46436E668,BATS,False,ETF,,,,,,,,USD,California; U.S.A,a17473e3aa6b41002f4e39014fc461e0,31.205
+128,iShares ESG Aware Conservative Allocation ETF,EAOK,1100663,46436E692,BATS,False,ETF,,,,,,,,USD,California; U.S.A,7890cdfda9d338a6626fc68eb23a00f6,26.1608
+129,iShares ESG Aware Moderate Allocation ETF,EAOM,1100663,46436E684,BATS,False,ETF,,,,,,,,USD,California; U.S.A,50b584ea3d94395a212a6d015432e5f6,27.1391
+130,iShares ESG Aware Growth Allocation ETF,EAOR,1100663,46436E676,BATS,False,ETF,,,,,,,,USD,California; U.S.A,98ff05ca4710850377427f4f60e10be0,29.1028
+131,iShares MSCI Chile ETF,ECH,930667,464286640,BATS,False,ETF,,,,,,,,USD,California; U.S.A,7b3188fcf83ff2604ae835233b537a38,26.86
+132,iShares MSCI Denmark ETF,EDEN,1100663,46429B523,BATS,False,ETF,,,,,,,,USD,California; U.S.A,72a102899f5d7f786ec856509f35e34d,95.81
+134,iShares MSCI Emerging Markets Min Vol Factor ETF,EEMV,930667,464286533,BATS,False,ETF,,,,,,,,USD,California; U.S.A,461344b88d99797a59f9f10f563e6853,60.51
+135,ProShares MSCI EAFE Dividend Growers ETF,EFAD,1174610,74347B839,BATS,False,ETF,,,,,,,,USD,Maryland; U.S.A,b321719ca1e4f699b64c1e985992bba2,39.13
+136,iShares MSCI EAFE Min Vol Factor ETF,EFAV,1100663,46429B689,BATS,False,ETF,,,,,,,,USD,California; U.S.A,2273bc9027fac8eece9fe5923d382ae9,69.76
+137,iShares MSCI EAFE Growth ETF,EFG,1100663,464288885,BATS,False,ETF,,,,,,,,USD,California; U.S.A,6cfc70b9eac35ec2160655b18af287aa,91.81
+138,iShares MSCI Finland ETF,EFNL,1100663,46429B515,BATS,False,ETF,,,,,,,,USD,California; U.S.A,7c2a7f29d0f4fd8b036c72c6d88ed5a4,38.38
+139,iShares MSCI EAFE Value ETF,EFV,1100663,464288877,BATS,False,ETF,,,,,,,,USD,California; U.S.A,4bc9f8d542773a8af8e7461c4b020d53,47.95
+140,2ndVote Society Defended ETF,EGIS,1811168,81386P306,BATS,False,ETF,,,,,,,,USD,Tennessee; U.S.A,d949b1b460bb81c8c6b772aa5f8f6706,33.07
+142,ProShares MSCI Emerging Markets Dividend Growers ETF,EMDV,1174610,74347B847,BATS,False,ETF,,,,,,,,USD,Maryland; U.S.A,1e90d70ad6ca50c067d626c0032083dc,51.43
+143,iShares MSCI Emerging Markets Multifactor ETF,EMGF,930667,46434G889,BATS,False,ETF,,,,,,,,USD,California; U.S.A,8ad211562340c7a359f54ce9953eab37,47.83
+144,iShares JP Morgan EM High Yield Bond ETF,EMHY,930667,464286285,BATS,False,ETF,,,,,,,,USD,California; U.S.A,678c488a0df3be49634a94a01c346744,38.2
+147,ProShares Short Term USD Emerging Markets Bond ETF,EMSH,1174610,74347B706,BATS,False,ETF,,,,,,,,USD,Maryland; U.S.A,b5486d535c9fe1874494471c03ea51b2,65.8
+148,SPDR DoubleLine Emerging Markets Fixed Income ETF,EMTL,1516212,78470P309,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,c4644b74d0af53dda6a1fa0e6333e6c6,45.5818
+149,iShares MSCI Norway ETF,ENOR,1100663,46429B499,BATS,False,ETF,,,,,,,,USD,California; U.S.A,40d1630983d511c43b731cc7768d5cd9,28.55
+150,Emles Alpha Opportunities ETF,EOPS,1755351,291361863,BATS,False,ETF,,,,,,,,USD,Texas; U.S.A,b64378dad84647cf4f0b42c8fdbee739,19.0575
+151,Innovator S&P Investment Grade Preferred ETF,EPRF,1595106,45783G201 45783Y822 287711501,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,793b392abc078d5ca9cc844d3bc6e5ca,21.66
+153,Xtrackers Bloomberg US Investment Grade Corporate ESG ETF,ESCR,1503123,233051739,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,141e4747d52658665aa4c536b9e8dd31,20.305
+154,Xtrackers JP Morgan ESG Emerging Markets Sovereign ETF,ESEB,1503123,233051713,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,99ec6922212aea76ae1208320cae263b,18.25
+155,FlexShares STOXX US ESG Select Index Fund,ESG,1491978,33939L696,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,47efa1e88161f376fe301dd607369b18,103.5904
+156,FlexShares STOXX Global ESG Select Index Fund,ESGG,1491978,33939L688,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,a795d6217ec256621a419664f35f101a,134.8896
+157,Vanguard ESG US Stock ETF,ESGV,52848,921910733,BATS,False,ETF,,,,,,,,USD,Pennsylvania; U.S.A,4ba9f8d70e79f0bf3a0783dfb5205801,76.51
+158,Xtrackers JP Morgan ESG USD High Yield Corporate Bond ETF,ESHY,1503123,233051747,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,a6f376be35b15eef3e7884eb3ece01c0,19.9291
+159,iShares ESG Aware MSCI USA Small-Cap ETF,ESML,1100663,46435U663,BATS,False,ETF,,,,,,,,USD,California; U.S.A,f29bd081f18d72f34d52c15e585661d0,36.8
+160,Euclid Capital Growth ETF,EUCG,1742912,886364751,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,e2465129570b045c39c68a424f2521bb,22.8386
+161,ProShares MSCI Europe Dividend Growers,EUDV,1174610,74347B540,BATS,False,ETF,,,,,,,,USD,Maryland; U.S.A,dc1376c36669a90f92805d2e9e7c9a2c,46.24
+163,Xtrackers Eurozone Equity ETF,EURZ,1503123,233051564,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,8cb7dbc448913e7162727bfb2352172f,20.7751
+167,iShares MSCI Germany Small-Cap ETF,EWGS,1100663,46429B465,BATS,False,ETF,,,,,,,,USD,California; U.S.A,55e5dbbf752fc4ac9c708361761f465e,68.3401
+168,iShares MSCI United Kingdom Small-Cap ETF,EWUS,1100663,46429B416,BATS,False,ETF,,,,,,,,USD,California; U.S.A,70622137d6cfcd013ce5ae2b6b466042,37.57
+170,Cambria Emerging Shareholder Yield ETF,EYLD,1529390,132061706,BATS,False,ETF,,,,,,,,USD,California; U.S.A,9ebbab04596b7abd26708d6348a06cb4,30.0
+171,iShares MSCI Eurozone ETF,EZU,930667,464286608,BATS,False,ETF,,,,,,,,USD,California; U.S.A,63aac2681599f7afb2ec4d45f17b0e43,41.71
+172,Cambria Global Tail Risk ETF,FAIL,1529390,132061805,BATS,False,ETF,,,,,,,,USD,California; U.S.A,34e25d372cb3cae410115bd9b6e66de4,22.5506
+174,FT Cboe Vest US Equity Buffer ETF - April,FAPR,1667919,33740U885,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,47ba023bf0fd1c853c99f8884fecc9c7,31.01
+175,FT Cboe Vest US Equity Buffer ETF - August,FAUG,1667919,33740F862,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,f7324f30d1c9aaedae1b4a4773edb99d,36.51
+176,Fidelity Blue Chip Growth ETF,FBCG,945908,316092352,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,1572aacb31326a8de3ecbef6c9718248,27.78
+177,Fidelity Blue Chip Value ETF,FBCV,945908,316092345,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,485d09b29b45faf6b83a2de133ef13a4,28.52
+178,Fidelity Cloud Computing ETF,FCLD,945908,316092246,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,f6a0635a3c0dbd8a9716d062d3beddeb,19.89
+179,Fidelity Stocks for Inflation ETF,FCPI,945908,316092386,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,5eee9c5c7cb1eb6b51db69facb369e07,32.62
+180,First Trust Lunt US Factor Rotation ETF,FCTR,1329377,33733E872,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,0deb0d2157bbe37998ecfff20e9295b7,30.63
+181,FT Cboe Vest US Equity Buffer ETF - December,FDEC,1667919,33740U505,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,3ccfa15801ee0b718f344af7743f73fb,32.6762
+182,Fidelity Emerging Markets Multifactor ETF,FDEM,945908,316092543,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,ff4a906e96147890992b3177cfd28708,23.95
+183,Fidelity International Multifactor ETF,FDEV,945908,316092535,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,0e86edf4b4a98464be1750beb3873394,26.71
+184,American Century Focused Dynamic Growth ETF,FDG,1710607,025072810,BATS,False,ETF,,,,,,,,USD,Missouri; U.S.A,8a03fe3ed9c3fda10cc1858714258595,65.63
+185,Fidelity Digital Health ETF,FDHT,945908,316092238,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,f0db0eff2095a978351befd113539ee1,21.605
+186,Fidelity Electric Vehicles and Future Transportation ETF,FDRV,945908,316092220,BATS,False,,,,,,,,,USD,Massachusetts; U.S.A,3c9b2598c02c1007283203507b936808,21.98
+187,TrueShares Structured Outcome (February) ETF,FEBZ,1683471,53656F755,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,29a2667e8462a30051a94baa911b5658,27.6672
+188,Emles Federal Contractors ETF,FEDX,1755351,291361871,BATS,False,ETF,,,,,,,,USD,Texas; U.S.A,8234c35411b62da9905049e443213d63,26.47
+189,FT Cboe Vest US Equity Buffer ETF - February,FFEB,1667919,33740F763,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,7b01f87faa58e8f2409930df48457ef7,36.87
+192,FormulaFolios Tactical Growth ETF,FFTG,1644419,66538H575,BATS,False,ETF,,,,,,,,USD,Ohio; U.S.A,37b8282c5f90447dc9db3753fbae7463,27.96
+193,FormulaFolios Tactical Income ETF,FFTI,1644419,66538H666,BATS,False,ETF,,,,,,,,USD,Ohio; U.S.A,d6cdcb2c3503891a53b8f0c057b8ce46,22.66
+194,Fidelity Growth Opportunities ETF,FGRO,945908,316092337,BATS,False,ETN,,,,,,,,USD,Massachusetts; U.S.A,01275143bb413e85fbafb6ff41cb253e,16.55
+195,iShares US Fixed Income Balanced Risk Factor ETF,FIBR,1100663,46435U796 46431W846,BATS,False,ETF,,,,,,,,USD,California; U.S.A,b5dd4e2fb5a898f41944912bc0fd4dce,94.5667
+196,FT Cboe Vest US Equity Buffer ETF - January,FJAN,1667919,33740F623,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,9be2038472d53d37f96ca6e3ee706aea,33.62
+197,FT Cboe Vest US Equity Buffer ETF - July,FJUL,1667919,33740U208,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,dfa1b34e8b23d9be7b1ce55af26b022c,34.64
+198,FT Cboe Vest US Equity Buffer ETF - June,FJUN,1667919,33740F722,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,15b8d00e109370abd3d5f3fe9795e56a,36.37
+200,Franklin Liberty Senior Loan ETF,FLBL,1655589,35473P595,BATS,False,ETF,,,,,,,,USD,California; U.S.A,c6238c04f7b3a67136159e1fc9b0fef5,24.51
+201,Fidelity Low Duration Bond Factor ETF,FLDR,1562565,316188408,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,4599c47d2a6ccce5f68690e532e2598b,50.36
+202,Franklin Liberty High Yield Corporate ETF,FLHY,1655589,35473P629,BATS,False,ETF,,,,,,,,USD,California; U.S.A,fbec482f9910283978ab1525b341e6b6,24.73
+203,Franklin Liberty International Aggregate Bond ETF,FLIA,1655589,35473P611,BATS,False,ETF,,,,,,,,USD,California; U.S.A,eb9c9e823d2a4e47cace8a37c51a5e30,23.9601
+204,iShares Floating Rate Bond ETF,FLOT,1100663,46429B655,BATS,False,ETF,,,,,,,,USD,California; U.S.A,d05879c4af2f9efe38b373ded808dcd9,50.5
+208,Rareview Inflation/Deflation ETF,FLTN,1719812,19423L532,BATS,False,ETF,,,,,,,,USD,Nevada; U.S.A,ca10cac25a597216c95034cfe4d51fac,24.915
+209,American Century Focused Large Cap Value ETF,FLV,1710607,025072794,BATS,False,ETF,,,,,,,,USD,Missouri; U.S.A,363479b1664d890e935665bed441c2d1,59.78
+210,Fidelity Magellan ETF,FMAG,945908,316092329,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,0cd979956cb9cb7506522d602e2368c3,20.91
+211,FT Cboe Vest US Equity Buffer ETF - March,FMAR,1667919,33740F599,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,30af1ef89a4a09c61efe34852492cbf7,32.28
+212,FT Cboe Vest US Equity Buffer ETF - May,FMAY,1667919,33740F748,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,63d4b3d07f2340089c02ea44f7b19109,36.56
+213,Fidelity New Millennium ETF,FMIL,945908,316092360,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,cf0f2c49665c00634059a06ead45cadf,29.44
+215,FT Cboe Vest US Equity Buffer ETF - November,FNOV,1667919,33740F847,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,9db673d264e7537b4c8e4423bc131e03,36.34
+216,FT Cboe Vest US Equity Buffer ETF - October,FOCT,1667919,33740F664,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,bc94a25a31042c221bf0560eff1abf1c,33.68
+217,Fomo Etf,FOMO,1719812,19423L664,BATS,False,ETF,,,,,,,,USD,Nevada; U.S.A,b9fda5dada03318a990e571ff448a9a2,21.228
+218,FPA Global Equity ETF,FPAG,1537140,66538R631,BATS,False,ETF,,,,,,,,USD,Ohio; U.S.A,686c8ad39717986982a15c7098cb0ca2,23.31
+219,Fidelity Preferred Securities & Income ETF,FPFD,945908,316092261,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,c86414eb48cc6711c945574191e29e31,22.83
+220,Fidelity Real Estate Investment ETF,FPRO,945908,316092311,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,ec8d2fae9123bd34148a70471a379f19,24.6565
+221,Freedom 100 Emerging Markets ETF,FRDM,1592900,02072L607,BATS,False,ETF,,,,,,,,USD,Pennsylvania; U.S.A,f71a40efc7b36c07673c5097949e4b30,32.7
+222,Fidelity Clean Energy ETF,FRNW,945908,316092253,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,36a4675f689e85e79601460a8979cdd8,24.447
+223,FT Cboe Vest US Equity Buffer ETF - September,FSEP,1667919,33740U307,BATS,False,ETF,,,,,,,,USD,Illinois; U.S.A,cd6206ea69edbe60499ca58c5d603d35,33.9201
+224,Fidelity Small-Mid Cap Opportunities ETF,FSMO,945908,316092295,BATS,False,ETF,,,,,,,,USD,Massachusetts; U.S.A,08ab4a21d19d79137cafa51db379a292,21.98
+226,CornerCap Fundametrics Large-Cap ETF,FUNL,1261788,89832P267,BATS,False,ETF,,,,,,,,USD,Wisconsin; U.S.A,eba02c0fcbd34038fc0b1fe55f326bfb,33.9899
+227,ProShares Managed Futures Strategy ETF,FUT,1174610,74347B532,BATS,False,ETF,,,,,,,,USD,Maryland; U.S.A,f5712d5183acbd1ee9361b480f6baa56,40.0199
+228,Cambria Foreign Shareholder Yield ETF,FYLD,1529390,132061300,BATS,False,ETF,,,,,,,,USD,California; U.S.A,745c1f7867127e5c2b073e0fbb127e28,26.5
+229,Cambria Global Asset Allocation ETF,GAA,1529390,132061607,BATS,False,ETF,,,,,,,,USD,California; U.S.A,91b979ca660783f0575729d1af70c498,29.77
+231,Goldman Sachs Bloomberg Clean Energy Equity ETF,GCLN,1479026,38149W754,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,7892887fcd9842c4cb45babec9129173,41.256
+232,Pacer Global Cash Cows Dividend ETF,GCOW,1616668,69374H709,BATS,False,ETF,,,,,,,,USD,Pennsylvania; U.S.A,63b6bc8b3383b58d15e5edd0dbe84047,32.76
+233,WisdomTree Efficient Gold Plus Gold Miners Strategy Fund,GDMN,1350487,97717Y550,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,19af7d9c21cc9e264711bd3709f7e133,33.7
+234,Principal Active Global Dividend Income ETF,GDVD,1572661,74255Y706,BATS,True,ETF,,,,,,,,USD,Iowa; U.S.A,c36fd068c18b78fc4c0d52d3a6d7eb9a,31.905
+235,Goldman Sachs Access Emerging Markets USD Bond ETF,GEMD,1479026,,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,94e0fa6f1e57700e7073ff1eee9d23f2,45.3
+236,Goose Hollow Tactical Allocation ETF,GHTA,1719812,19423L573,BATS,False,ETF,,,,,,,,USD,Nevada; U.S.A,a90350e6c5fba5e29bdd6535189bc68a,24.5757
+237,iShares US & Intl High Yield Corp Bond ETF,GHYG,930667,464286178,BATS,False,ETF,,,,,,,,USD,California; U.S.A,e8497a4330a467b96d22fc084bf1f846,45.96
+238,Strategy Shares Gold-Hedged Bond ETF,GLDB,1506213,86280R878,BATS,False,ETF,,,,,,,,USD,Indiana; U.S.A,7d09ff823f1b557855e242ea998a8f22,24.6975
+239,Cambria Global Momentum ETF,GMOM,1529390,132061508,BATS,False,ETF,,,,,,,,USD,California; U.S.A,1f5666fed8f2170c28c2fc74ac7c6482,31.85
+241,iShares US Treasury Bond ETF,GOVT,1100663,46429B267,BATS,False,ETF,,,,,,,,USD,California; U.S.A,ad3dcf25c399ced897c3c10b651a6021,25.51
+242,iShares 25+ Year Treasury STRIPS Bond ETF,GOVZ,1100663,46436E577,BATS,False,ETF,,,,,,,,USD,California; U.S.A,ef2d9b013d0be31ac753f38a50a953ce,19.79
+243,Goldman Sachs ActiveBeta(R) Paris-Aligned Climate US Large Cap Equity ETF,GPAL,1479026,38149W747,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,802d91450c8bd5d245c96060a83c7b50,35.7686
+246,Goldman Sachs MarketBeta Emerging Markets Equity ETF,GSEE,1479026,381430164,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,e26ec8be6b115319953edcd786601866,46.0749
+248,Goldman Sachs MarketBeta International Equity ETF,GSID,1479026,381430180,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,d11ab516da836fc89e78da77440926af,50.4536
+249,Goldman Sachs Access Ultra Short Bond ETF,GSST,1479026,381430230,BATS,False,ETF,,,,,,,,USD,New York; U.S.A,a909de2af5fd1a2527f64c35bcbcd5b6,50.261
